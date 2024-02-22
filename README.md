@@ -34,7 +34,7 @@
 - [MA2079 Engineering Innovation & Design (C++)](https://github.com/Remon-99/MA2079-Engineering-Innovation-Design) - A+
 - [MA2012 Introduction To Mechatronics Systems Design (C++)](https://github.com/Remon-99/MA2012-Introduction-to-Mechatronics-Systems-Design) - A+
 - [MA0218 Introduction To Data Science & Artificial Intelligence (Python)](https://github.com/Remon-99/MA0218-Data-Science-Artificial-Intelligence) - A+
-- [MA1008 Introdution To Computational Thinking (Python)]([https://www.youtube.com/watch?v=E2MwRWxDBkA](https://github.com/Remon-99/MA1008-Intro-to-Computational-Thinking)) - A
+- [MA1008 Introdution To Computational Thinking (Python)](https://github.com/Remon-99/MA1008-Intro-to-Computational-Thinking) - A
 
 <h2> 🤳 Connect with me:</h2>
 
