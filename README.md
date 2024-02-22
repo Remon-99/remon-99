@@ -17,7 +17,7 @@
 
 <h2>👨‍💻 Professional Projects:</h2>
 
-- **ST Engineering / Robotics Software Developer (ROS2, C++, Python):**  - In Progress
+- **ST Engineering / Robotics Software Developer (ROS2, C++, Python, Linux):**  - In Progress
     - Software development for Autonomous Navigation of UAV and UGV using ZED 3D Cameras, NVIDIA Xavier and ROS2
     - Development of new camera mount for 3D Printing using SolidWorks
 - **Home Team Science and Technology Agency (HTX) / Artificial Intelligence Developer (Python):**
