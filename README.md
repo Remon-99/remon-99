@@ -1,6 +1,7 @@
 <h1>Hi, I'm Remon! 👋
 
 <h2> About me:</h2>
+
 - Education
     - Mechanical Engineering (Robotics and Mechatronics) - Nanyang Technological University (First Class Honours)
     - Victoria Junior College
