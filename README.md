@@ -1,13 +1,27 @@
 <h1>Hi, I'm Remon! 👋
 
+<h2> About me:</h2>
+- Education
+    - Mechanical Engineering (Robotics and Mechatronics) - Nanyang Technological University (First Class Honours)
+    - Victoria Junior College
+- Proficiency
+    - C, C++, Python
+    - Robot Operating System 2 (ROS2), NAV2, ZED SDK, GAZEBO, RVIZ2
+    - LINUX
+    - Arduino
+    - MATLAB/Simulink
+    - Solidworks, Autodesk 3DS Max, ANSYS Additive Suite, PTC Creo
+    - XCode
+    - Adobe Photoshop, Adobe Lightroom, DaVinci Resolve
+
 <h2>👨‍💻 Professional Projects:</h2>
 
 - ST Engineering / Robotics Software Developer (ROS2, C++, Python):
     - [Software development for Autonomous Navigation of UAV and UGV using ZED 3D Cameras, NVIDIA Xavier and ROS2](https://www.youtube.com/watch?v=a83ASGn_V_s)
     - Development of new camera mount for 3D Printing using SolidWorks
 - Home Team Science and Technology Agency (HTX) / Artificial Intelligence Developer (Python):
-    - [Training of AI to detect threats using YOLOv5 from live images]
-    - [Tensorflow Object Detection]
+    - Training of AI to detect threats using YOLOv5 from live images
+    - Tensorflow Object Detection
 
 
 <h2>📖 Academic Projects:</h2>
@@ -18,8 +32,8 @@
 - [MA5915 Undergraduate Research (SolidWorks)]
 - [MA2011 Mechatronics System Interfacing (SolidWorks)](https://www.youtube.com/watch?v=uHy3oM7NnoU) - A-
 - [MA2012 Introduction To Mechatronics Systems Design (C++)](https://www.youtube.com/watch?v=N-L9hklSlNk) - A+
-- [MA0218 INTRODUCTION TO DATA SCIENCE & ARTIFICIAL INTELLIGENCE (Python)](https://www.youtube.com/watch?v=OfvdQeh79s0) - A+
-- [MA1008 INTRODUCTION TO COMPUTATIONAL THINKING (Python)](https://www.youtube.com/watch?v=E2MwRWxDBkA) - A
+- [MA0218 Introduction To Data Science & Artificial Intelligence (Python)](https://www.youtube.com/watch?v=OfvdQeh79s0) - A+
+- [MA1008 Introdution To Computational Thinking (Python)](https://www.youtube.com/watch?v=E2MwRWxDBkA) - A
 
 <h2> 🤳 Connect with me:</h2>
 
