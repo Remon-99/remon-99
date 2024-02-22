@@ -29,12 +29,12 @@
 
 - [MA4829 Machine Intelligence (Python)](https://github.com/Remon-99/MA4829-Machine-Intelligence) - In Progress
 - [MA4825 Robotics (ROS2)]() - In Progress
-- [MA4012 Mechatronics Engineering Design (C)](https://www.youtube.com/watch?v=a83ASGn_V_s) - In Progress
-- [MA3005 Control Theory (MATLAB, Simulink)]()
+- [MA4012 Mechatronics Engineering Design (C)]() - In Progress
+- [MA3005 Control Theory (MATLAB, Simulink)](https://github.com/Remon-99/MA3005-Control-Theory) - Pass
 - [MA2079 Engineering Innovation & Design (C++)](https://github.com/Remon-99/MA2079-Engineering-Innovation-Design) - A+
-- [MA2012 Introduction To Mechatronics Systems Design (C++)](https://www.youtube.com/watch?v=N-L9hklSlNk) - A+
-- [MA0218 Introduction To Data Science & Artificial Intelligence (Python)](https://www.youtube.com/watch?v=OfvdQeh79s0) - A+
-- [MA1008 Introdution To Computational Thinking (Python)](https://www.youtube.com/watch?v=E2MwRWxDBkA) - A
+- [MA2012 Introduction To Mechatronics Systems Design (C++)](https://github.com/Remon-99/MA2012-Introduction-to-Mechatronics-Systems-Design) - A+
+- [MA0218 Introduction To Data Science & Artificial Intelligence (Python)](https://github.com/Remon-99/MA0218-Data-Science-Artificial-Intelligence) - A+
+- [MA1008 Introdution To Computational Thinking (Python)]([https://www.youtube.com/watch?v=E2MwRWxDBkA](https://github.com/Remon-99/MA1008-Intro-to-Computational-Thinking)) - A
 
 <h2> 🤳 Connect with me:</h2>
 
